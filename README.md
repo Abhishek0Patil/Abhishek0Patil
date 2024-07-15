@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Classification**
-
-- 🌱 I’m currently learning **Deep Learning etc**
+- 🔭 I’m currently working on **Deep Learning **
 
 - 📫 How to reach me **abhi2662003@gmail.com**
 
