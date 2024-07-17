@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patil</h1>
-<h3 align="center">A passionate data science engineer from india</h3>
+<h3 align="center">A passionate machine learning engineer from india</h3>
 
-- 🔭 I’m currently working in the field of Deep Learning and Generative AI
+- 🔭 I’m currently working in the field of Deep Learning ,data science and Generative AI
 - 💻 Skilled in developing and implementing advanced Machine Learning Models
 - 🚀 Focused on advancing AI capabilities and contributing to innovative tech solutions 
 - 🌐 How to reach me **abhi2662003@gmail.com**
